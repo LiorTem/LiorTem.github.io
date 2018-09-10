@@ -5,14 +5,19 @@ body {margin:0;}
             text-decoration: none;
         }
         
-        /* visited link */
+      
         a:visited {
             color: black;
         }
 
+        #cool {
+            float: right;
+            overflow: auto;
+        }
 
-
-
+        .reee {
+            overflow: auto;
+        }
 
         table {
             font-family: arial, sans-serif;
@@ -35,14 +40,14 @@ body {margin:0;}
             background-color:whitesmoke;
         }
 
-        td:hover, th:hover { background: yellow; }
+        td:hover, th:hover { background: hotpink; }
         
         body {
             background-image: url(http://getwallpapers.com/wallpaper/full/b/b/8/466810.jpg);
             
             }
 
-        div {
+        #hoofd {
             margin-left: 25%;
             margin-top: 10%;
             width: 50%;
@@ -81,5 +86,5 @@ body {margin:0;}
             }   
 
         .active {
-            background-color: #4CAF50;
+            background-color: rgb(76, 94, 175);
             }
